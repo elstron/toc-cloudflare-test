@@ -3,6 +3,7 @@ dist/
 # generated types
 .astro/
 toc/
+website/ 
 # dependencies
 node_modules/
 

@@ -12,6 +12,6 @@
     "@astrojs/cloudflare": "^12.6.2",
     "@astrojs/mdx": "^4.3.3",
     "astro": "^5.12.8",
-    "astro-table-of-contents": "^1.0.12"
+    "astro-table-of-contents": "git+https://github.com/elstron/astro-table-of-contents.git#refactor-mdd"
   }
 }

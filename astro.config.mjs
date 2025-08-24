@@ -1,6 +1,6 @@
 // @ts-check
 import { defineConfig } from "astro/config";
-import { tableOfContents } from "astro-table-of-contents";
+import { tableOfContents } from "./toc/src/index.ts";
 import cloudflare from "@astrojs/cloudflare";
 import mdx from "@astrojs/mdx";
 
@@ -9,7 +9,7 @@ export default defineConfig({
   integrations: [
     mdx(),
     tableOfContents({
-      title: "Table of Perritos",
+      title: "Titulo desde astro.config",
     }),
   ],
   output: "server",
