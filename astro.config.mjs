@@ -1,6 +1,6 @@
 // @ts-check
 import { defineConfig } from "astro/config";
-import { tableOfContents } from "astro-table-of-contents";
+import { tableOfContents } from "./toc/src/index.ts";
 import cloudflare from "@astrojs/cloudflare";
 import mdx from "@astrojs/mdx";
 
