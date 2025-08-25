@@ -21,8 +21,8 @@ importers:
         specifier: ^5.12.8
         version: 5.12.8(@types/node@24.1.0)(rollup@4.46.2)(typescript@5.9.2)
       astro-table-of-contents:
-        specifier: git+https://github.com/elstron/astro-table-of-contents.git#c536d03f9f48ef259295f88d66a219e204377684
-        version: https://codeload.github.com/elstron/astro-table-of-contents/tar.gz/c536d03f9f48ef259295f88d66a219e204377684
+        specifier: git+https://github.com/elstron/astro-table-of-contents.git#47c77e38ff8774b7c30cd5ed7fd2398dfed54038
+        version: https://codeload.github.com/elstron/astro-table-of-contents/tar.gz/47c77e38ff8774b7c30cd5ed7fd2398dfed54038
 
 packages:
 
@@ -889,8 +889,8 @@ packages:
     resolution: {integrity: sha512-LElXdjswlqjWrPpJFg1Fx4wpkOCxj1TDHlSV4PlaRxHGWko024xICaa97ZkMfs6DRKlCguiAI+rbXv5GWwXIkg==}
     hasBin: true
 
-  astro-table-of-contents@https://codeload.github.com/elstron/astro-table-of-contents/tar.gz/c536d03f9f48ef259295f88d66a219e204377684:
-    resolution: {tarball: https://codeload.github.com/elstron/astro-table-of-contents/tar.gz/c536d03f9f48ef259295f88d66a219e204377684}
+  astro-table-of-contents@https://codeload.github.com/elstron/astro-table-of-contents/tar.gz/47c77e38ff8774b7c30cd5ed7fd2398dfed54038:
+    resolution: {tarball: https://codeload.github.com/elstron/astro-table-of-contents/tar.gz/47c77e38ff8774b7c30cd5ed7fd2398dfed54038}
     version: 1.0.13
 
   astro@5.12.8:
@@ -2910,7 +2910,7 @@ snapshots:
 
   astring@1.9.0: {}
 
-  astro-table-of-contents@https://codeload.github.com/elstron/astro-table-of-contents/tar.gz/c536d03f9f48ef259295f88d66a219e204377684:
+  astro-table-of-contents@https://codeload.github.com/elstron/astro-table-of-contents/tar.gz/47c77e38ff8774b7c30cd5ed7fd2398dfed54038:
     dependencies:
       typescript: 5.9.2
 
