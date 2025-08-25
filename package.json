@@ -11,7 +11,8 @@
   "dependencies": {
     "@astrojs/cloudflare": "^12.6.2",
     "@astrojs/mdx": "^4.3.3",
+    "@astrojs/vercel": "^8.2.6",
     "astro": "^5.12.8",
-    "astro-table-of-contents": "git+https://github.com/elstron/astro-table-of-contents.git#528e88a27a8d1bd575d0094be7dd36e63bfe7bb9"
+    "astro-table-of-contents": "git+https://github.com/elstron/astro-table-of-contents.git#c536d03f9f48ef259295f88d66a219e204377684"
   }
 }
