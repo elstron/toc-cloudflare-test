@@ -13,6 +13,6 @@
     "@astrojs/mdx": "^4.3.3",
     "@astrojs/vercel": "^8.2.6",
     "astro": "^5.12.8",
-    "astro-table-of-contents": "file:astro-table-of-contents-1.0.15.tgz"
+    "astro-table-of-contents": "^1.0.15"
   }
 }
