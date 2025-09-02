@@ -13,6 +13,6 @@
     "@astrojs/mdx": "^4.3.3",
     "@astrojs/vercel": "^8.2.6",
     "astro": "^5.12.8",
-    "astro-table-of-contents": "git+https://github.com/elstron/astro-table-of-contents.git#5a36063fe5fb44e9fad0beef4f073cd2dc533c43"
+    "astro-table-of-contents": "file:./astro-table-of-contents-1.0.15.tgz"
   }
 }
