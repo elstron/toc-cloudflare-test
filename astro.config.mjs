@@ -6,6 +6,7 @@ import mdx from "@astrojs/mdx";
 import vercelAdapter from "@astrojs/vercel";
 // https://astro.build/config
 export default defineConfig({
+  site: "https://mi-sitio-ejemplo.com",
   integrations: [
     mdx(),
     tableOfContents({
