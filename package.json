@@ -12,7 +12,6 @@
     "@astrojs/cloudflare": "^14.1.1",
     "@astrojs/mdx": "^7.0.2",
     "astro": "^7.0.6",
-    "astro-table-of-contents": "beta",
-    "wrangler": "^4.107.0"
+    "astro-table-of-contents": "beta"
   }
 }
