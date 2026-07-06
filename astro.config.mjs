@@ -10,6 +10,7 @@ export default defineConfig({
     mdx(),
     tableOfContents({
       title: "Table of Perritos",
+      showIndex: true,
     }),
   ],
   output: "server",
